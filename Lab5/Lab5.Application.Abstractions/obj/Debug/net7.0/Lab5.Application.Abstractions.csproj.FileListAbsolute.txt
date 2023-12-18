@@ -1,0 +1,17 @@
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\bin\Debug\net7.0\Lab5.Application.Abstractions.deps.json
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\bin\Debug\net7.0\Lab5.Application.Abstractions.runtimeconfig.json
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\bin\Debug\net7.0\Lab5.Application.Abstractions.dll
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\bin\Debug\net7.0\Lab5.Application.Abstractions.pdb
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\bin\Debug\net7.0\Lab5.Application.Models.dll
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\bin\Debug\net7.0\Lab5.Application.Models.pdb
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\obj\Debug\net7.0\Lab5.Application.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\obj\Debug\net7.0\Lab5.Application.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\obj\Debug\net7.0\Lab5.Application.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\obj\Debug\net7.0\Lab5.Application.Abstractions.AssemblyInfo.cs
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\obj\Debug\net7.0\Lab5.Application.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\obj\Debug\net7.0\Lab5.Application.Abstractions.csproj.CopyComplete
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\obj\Debug\net7.0\Lab5.Application.Abstractions.dll
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\obj\Debug\net7.0\refint\Lab5.Application.Abstractions.dll
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\obj\Debug\net7.0\Lab5.Application.Abstractions.pdb
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\obj\Debug\net7.0\Lab5.Application.Abstractions.genruntimeconfig.cache
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Abstractions\obj\Debug\net7.0\ref\Lab5.Application.Abstractions.dll
