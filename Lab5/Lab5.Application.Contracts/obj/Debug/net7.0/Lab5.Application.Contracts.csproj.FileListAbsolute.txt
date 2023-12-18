@@ -1,0 +1,17 @@
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\bin\Debug\net7.0\Lab5.Application.Contracts.deps.json
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\bin\Debug\net7.0\Lab5.Application.Contracts.runtimeconfig.json
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\bin\Debug\net7.0\Lab5.Application.Contracts.dll
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\bin\Debug\net7.0\Lab5.Application.Contracts.pdb
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\bin\Debug\net7.0\Lab5.Application.Models.dll
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\bin\Debug\net7.0\Lab5.Application.Models.pdb
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\obj\Debug\net7.0\Lab5.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\obj\Debug\net7.0\Lab5.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\obj\Debug\net7.0\Lab5.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\obj\Debug\net7.0\Lab5.Application.Contracts.AssemblyInfo.cs
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\obj\Debug\net7.0\Lab5.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\obj\Debug\net7.0\Lab5.Application.Contracts.csproj.CopyComplete
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\obj\Debug\net7.0\Lab5.Application.Contracts.dll
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\obj\Debug\net7.0\refint\Lab5.Application.Contracts.dll
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\obj\Debug\net7.0\Lab5.Application.Contracts.pdb
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\obj\Debug\net7.0\Lab5.Application.Contracts.genruntimeconfig.cache
+C:\Users\Home\Documents\3semester-labs\src\Lab5\Lab5.Application.Contracts\obj\Debug\net7.0\ref\Lab5.Application.Contracts.dll
